@@ -1,0 +1,277 @@
+.info-box-icon>img {
+    margin-top: -11px;
+    max-width: 100%;
+}
+
+.shop-action {
+    padding-left: 2px;
+    padding-right: 2px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.shop-action-edit:hover {
+    color: #3c8dbc;
+}
+
+.shop-action-delete:hover {
+    color: #dd4b39;
+}
+
+.list-action {
+    font-size: 18px;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.list-action-edit:hover {
+    color: #3c8dbc;
+}
+
+.item-action {
+    padding-left: 2px;
+    padding-right: 2px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.item-action-edit:hover {
+    color: #3c8dbc;
+}
+
+.item-action-delete:hover {
+    color: #dd4b39;
+}
+
+#idToDelete {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 17px;
+}
+
+
+.item-img {
+    width: auto;
+    height: 100px;
+    object-fit: cover;
+}
+
+.my-group .form-control{
+    width:50%;
+}
+
+.body-img {
+    width: auto;
+    height: 50px;
+    object-fit: cover;
+}
+
+.measurement-img {
+    width: auto;
+    height: 50px;
+    object-fit: cover;
+}
+
+.thumb-img {
+    width: 100%;
+    margin-top: 10px;
+}
+
+.no-space {
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.styling-container .thumbnail .caption {
+    padding-top: 5px;
+    padding-bottom: 0px;
+    height: 33px;
+    color: #333;
+}
+
+.styling-container .thumbnail .b-content {
+    padding-top: 2px;
+    height: 40px;
+}
+
+.order-action {
+    padding-left: 4px;
+    padding-right: 4px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.order-action-view:hover {
+    color: #3c8dbc;
+}
+
+.order-action-change:hover {
+    color: #3c8dbc;
+}
+
+.order-action-timeline:hover {
+    color: #3c8dbc;
+}
+
+.order-action-customer:hover {
+    color: #3c8dbc;
+}
+
+.fabric-action-edit:hover {
+    color: #3c8dbc;
+}
+
+.fabric-action-delete:hover {
+    color: #dd4b39;
+}
+
+.lining-action-edit:hover {
+    color: #3c8dbc;
+}
+
+.lining-action-delete:hover {
+    color: #dd4b39;
+}
+
+.customer-photo {
+    cursor: pointer;
+}
+
+.label-pre-production {
+    background: #39cccc;
+}
+
+.label-store {
+    background: #605ca8;
+}
+
+.label-warehouse {
+    background: #005384;
+}
+
+.label-production {
+    background: #d81b60;
+}
+
+.notify-panel {
+    border-radius: 0px;
+    background: #00c0ef;
+    color: white;
+    margin-bottom: 0px;
+    position: fixed;
+    z-index: 1000;
+    padding-top: 10px;
+    padding-left: 15px;
+    font-size: 18px;
+    display: none;
+}
+
+.notify-panel .icon {
+    font-size: 22px;
+    color: #0097bc;
+}
+
+.error-notify-panel {
+    border-radius: 0px;
+    background: #dd4b39;
+    color: white;
+    margin-bottom: 0px;
+    position: fixed;
+    z-index: 1000;
+    padding-top: 10px;
+    padding-left: 15px;
+    font-size: 18px;
+    display: none;
+}
+
+.error-notify-panel .icon {
+    font-size: 22px;
+    color: #c23321;
+}
+
+#listID {
+    display: none;
+}
+
+#staticNotify h4{
+    margin-bottom: 0px;
+}
+
+#staticNotify i{
+    font-size: 21px;
+    color: #0097bc;
+}
+
+#staticErrorNotify h4{
+    margin-bottom: 0px;
+}
+
+#staticErrorNotify i{
+    font-size: 21px;
+    color: #c23321;
+}
+
+.garment-action-edit:hover{
+    color: #3c8dbc;
+}
+
+.base-size-action-edit:hover {
+    color: #3c8dbc;
+}
+
+.base-size-action-delete:hover{
+    color: #dd4b39;
+}
+
+.base-pattern-action-edit:hover {
+    color: #3c8dbc;
+}
+
+.base-pattern-action-delete:hover {
+    color: #dd4b39;
+}
+
+.active-user {
+    color: #00a65a;
+}
+
+.deactive-user {
+    color: #dd4b39;
+}
+
+
+/*-----------------------------------------------*/
+/*Admin*/
+
+.user-action {
+    padding-left: 4px;
+    padding-right: 4px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.user-action-activate:hover {
+    color: #00a65a;
+}
+
+.user-action-deactivate:hover {
+    color: #dd4b39;
+}
+
+.user-action-delete:hover {
+    color: #dd4b39;
+}
+
+.user-action-show-password:hover{
+    color: #3c8dbc;
+}
+
+#passwordDiv {
+    display: none;
+}
